@@ -1,0 +1,3 @@
+base:
+  mongo_db: "ricedev"
+  mongo_url: 
